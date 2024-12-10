@@ -37,7 +37,7 @@ SENDGRID_API_KEY = os.getenv("SENDGRID_API_KEY")
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['linguamura.onrender.com']
 
 
 # Application definition
